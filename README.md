@@ -1,6 +1,11 @@
 # Package for Ant Icons
 
-Flutter package for [Ant Icons](https://ant.design/components/icon/). Ant Icons is a pack of Open Source icons for common actions and items.
+An icon is a graphical representation of meaning. Icons can be used to express actions, state, and even to categorize data. [Ant Design's icons](https://ant.design/components/icon/) adhere to the following two principles and are designed for cross-platform consistency:
+
+- Graphics that are clear, intuitive, and simple enjoy a higher degree of recognition and are more easily understood
+- All icons in the user interface should be consistent in style (detail design, perspective, stroke weight, etc.)
+
+This is a Flutter package for Ant Icons.
 
 <p align="center">
 <img src="https://gw.alipayobjects.com/zos/rmsportal/XzOPonWCsPjvgkrklCzo.png" width="500">

@@ -1,9 +1,9 @@
-# AntIcons Flutter Package
+# Package for Ant Icons
 
 Flutter package for [Ant Icons](https://ant.design/components/icon/). Ant Icons is a pack of Open Source icons for common actions and items.
 
 <p align="center">
-<img src="https://gw.alipayobjects.com/zos/rmsportal/XzOPonWCsPjvgkrklCzo.png" width="300">![]()
+<img src="https://gw.alipayobjects.com/zos/rmsportal/XzOPonWCsPjvgkrklCzo.png" width="500">
 </p>
 
 ## Install

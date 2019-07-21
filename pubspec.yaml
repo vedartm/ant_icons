@@ -1,0 +1,22 @@
+name: ant_icons
+description: A Flutter package for Ant Icons.
+version: 0.0.1
+author: Venkatesh Prasad <venkatesh@cogitare.space>
+homepage: https://github.com/excogitatr/ant_icons
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: AntIcons
+      fonts:
+        - asset: lib/icons/ant.ttf

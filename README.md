@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
     return IconButton(
       icon: Icon(AntIcons.ant_cloud),
       onPressed: () { print('Pressed on Ant Cloud icon'); }
-     );
+    );
   }
 }
 ```

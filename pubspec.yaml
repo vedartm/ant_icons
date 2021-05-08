@@ -1,7 +1,7 @@
 name: ant_icons
 description: A Flutter package for the easy implementation of Ant Icons. It consists of Amazing Open Source icons with normal and outline version of each. 
 version: 2.0.0-nullsafety.0
-author: Venkatesh Prasad <venkatesh@cogitare.space>
+# author: Venkatesh Prasad <venkatesh@cogitare.space>
 homepage: https://github.com/excogitatr/ant_icons
 
 environment:
